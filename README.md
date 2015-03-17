@@ -13,9 +13,10 @@ u_2 v_2 [optional weight2]
 ...
 ```
 
-Example:
+Example
+========
 
-input file
+Input file
 ```
 5 5
 1 2 2
@@ -25,7 +26,7 @@ input file
 1 5 5
 ```
 
-will be converted to
+will be converted to this dot file
 
 ```
 digraph G {
@@ -40,7 +41,7 @@ digraph G {
 How to use
 ==========
 
-1. install graphviz (e.g by sudo apt-get install -y graphviz or sudo yum install -y graphviz)
-2. ./graphviz.sh sample.in
+1. Install graphviz (e.g by ```sudo apt-get install -y graphviz``` or ```sudo yum install -y graphviz```)
+2. ```./graphviz.sh sample.in```
 
-It will produce DOT and PNG files
+It will produce DOT and PNG files.
