@@ -1,8 +1,7 @@
 contest2graphviz util
 =====================
 
-Converts popular graph description format used in programming competitions (ACM,
-Yandex.contest) to [Graphviz (*.dot) file format](http://www.graphviz.org/doc/info/lang.html).
+Converts popular graph description format used in programming competitions (ACM, topcoder, Yandex.contest) to [Graphviz (*.dot) file format](http://www.graphviz.org/doc/info/lang.html).
 
 Input format:
 
